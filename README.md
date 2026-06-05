@@ -36,6 +36,6 @@ SQL fundamentals project focused on data querying, filtering, sorting, grouping,
 ## Group By Query
 ![GROUP BY Query](Images/groupby-output.png)
 
-##Aggregation Query
+## Aggregation Query
 ![Aggregation Query](Images/aggregation-output.png)
 
